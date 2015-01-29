@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/krisser/wodstar.png?label=ready&title=Ready)](https://waffle.io/krisser/wodstar)
 # wodstar
 repo for project wodstar
 
